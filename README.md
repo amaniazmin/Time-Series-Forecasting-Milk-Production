@@ -1,7 +1,6 @@
-# Time-Series-Forecasting-Milk-Production
-Predictive analytics project using Excel/Google Sheets to forecast monthly production trends through Moving Average smoothing and Multiplicative/Additive decomposition models.
 # Time Series Forecasting: Monthly Milk Production Analysis
 ### Tools Used: Excel, Google Sheets | Methods: Moving Averages, Decomposition Models
+Predictive analytics project using Excel/Google Sheets to forecast monthly production trends through Moving Average smoothing and Multiplicative/Additive decomposition models.
 
 ## Project Overview
 This project performs a time series analysis on historical production data to identify seasonal patterns and forecast future trends. The study compares different statistical smoothing and decomposition techniques to determine the most accurate model for this specific dataset.
@@ -23,10 +22,4 @@ Based on the quantitative validation, the models yielded the following results:
 
 **Conclusion**: The **Multiplicative method** was selected as the superior model for this dataset, as the lower MSE indicates that its predictions align more closely with the actual historical values.
 
-## File Structure
-- `/reports`: Includes the full analytical report (`Apple stock prices time forecasting.pdf`).
-- `/data`: Contains the raw CSV data from Kaggle.
-- `/sheets`: Links to the Google Sheets workbooks showing the step-by-step calculations.
 
----
-*Developed as part of the MDA 3083 Predictive Analytics course, Group 9 - Universiti Malaysia Terengganu (UMT).*
